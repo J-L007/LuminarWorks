@@ -1,0 +1,263 @@
+@import url('https://fonts.googleapis.com/css2?family=Caveat&family=Dancing+Script&family=Griffy&family=Pacifico&display=swap');
+.header{
+    width: 100%;
+    height: 75px;
+    color:  white;
+    position: fixed;
+}
+
+.left{
+    width: 50%;
+    float: left;
+}
+
+.rightR{
+    display: flex;
+    justify-content: space-around;
+    list-style: none;
+    font-size: 21px;
+    color: white;
+    
+
+}
+
+.fas{ 
+   font-size: 60px;
+   float: left;
+   padding-top: 15px;
+   padding-left: 50px; 
+   
+}
+
+.Cofee{
+    font-size: 37px;
+}
+
+.img{
+    background-image: url(./cofee6.jpg);
+    height: 657px;
+    width: 100%;
+    background-size: cover;
+
+}
+
+body{
+    margin: 0;
+    padding: 0;
+    background-color: #dfb78c;
+}
+
+.mhead{
+
+    height: 400px;
+    width: 700px;
+    margin-left: 12px;
+    
+    
+}
+
+.mhead1{
+    display: inline;
+    border: #dfb78c;
+    color:  white; 
+    margin-left: 100px;
+    font-size: 70px;
+    padding-top: 50px;
+}
+
+.mhead-1{
+
+    font-size: 35px;
+    color:aliceblue;
+    font-family: 'Caveat', cursive;
+    
+}
+
+.abouta{
+   
+   background-color: #d49e72;  
+   height: 750px;
+
+
+}
+
+#types{
+    margin-left: 15px;
+    font-family: Arial, Helvetica, sans-serif
+}
+.Ahead {
+    background-color: #d49e72;
+    margin-left: 25px;
+    font-size: 20px;
+}
+
+#bean{
+    font-family: 'Shalimar', cursive; 
+    margin-left: 15px;
+}
+.para{
+    margin-left: 15px;
+    font-size: 20px;
+}
+
+.drinks{
+    margin-left: 25px;
+    font-size: 20px;
+    
+}
+.benefits{
+    margin-left: 10px;
+    font-size: 20px;
+}
+
+.difcof{
+    margin-left: 300px;
+    width: 600px;
+    border-radius: 20px;
+    border-style: double;
+    border-style: solid initial;
+    
+}
+
+
+
+#gallery{
+    margin-top: 30px;
+    text-align: center;
+    font-size: 35px;
+    color: rgba(59, 56, 49, 0.993);
+     
+}
+
+#G1{
+
+    text-align: center;
+    font-size: 20px;
+    border: solid 1px #8b2e52 ;
+    border-radius: 10px;
+    height: 298px;
+    width: 250px;
+    margin-left: 15px;
+    margin-top: 100px;
+    float: left;
+    padding-bottom: 12px;
+    margin-bottom: 8px;
+    background-color: rgba(161, 148, 144, 0.445)
+ 
+}
+
+#G2{
+    text-align: center;
+    font-size: 20px;
+    border: solid 1px #8b2e52 ;
+    border-radius: 10px;
+    height: 298px;
+    width: 250px;
+    margin-left: 15px;
+    float: left;
+    padding-bottom: 12px;
+    margin-bottom: 8px;
+    background-color: rgba(161, 148, 144, 0.445)
+
+}
+
+#james {
+    height: 250px;
+    width: 99%;
+    padding-top: 2px;
+    border-radius: 6px;   
+}
+#Mname{
+    font-family:'Passions Conflict', cursive;
+}
+
+.regis{ 
+    font-size: 20px;
+    text-align: center; 
+}
+
+.form{
+    background-color: #d49e72;
+    margin-left: 420px;
+    width: 500px;
+    border-radius: 17px;
+    color: white;
+    
+    
+}
+label{
+    margin-left: 10px;
+}
+
+.namein{
+    margin-left:96px;
+}
+.emailin{
+    margin-left: 96px;
+}
+.pasin{
+    margin-left: 68px;
+}
+.terms{
+    margin-left: 5px;
+}
+.sub{
+  margin-top: 10px;
+  margin-left: 10px;
+  
+}
+.sub1{
+    font-size: 15px;
+}
+.moreaccount{
+    margin-left: 10px;
+    
+}
+.logincolor{
+    color: brown;
+}
+
+.contacta{
+    background-color: #d49e72;
+    height: 200px;
+    font-family: 'arial Script', cursive;
+    color: white;
+    
+}
+
+#emaila{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 20px;
+    margin-left: 150px;
+    
+}
+
+.contactaL{
+    float: left;
+    font-size: 12px;
+}
+.contactaL h1{
+    margin-left: 100px;
+    
+}
+.contactaL h2{
+    margin-left: 100px;
+    float: left;
+}
+
+
+.icons{
+    float: left;
+    margin-left: 260px;
+    margin-top: -10px;
+    font-size: 45px;
+}
+.menua{
+    text-align: center;
+}
+.reg{
+    text-align: center;
+}
+.row{
+    margin-left: 60px;
+}

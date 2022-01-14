@@ -1,0 +1,17 @@
+.parent{
+border:blueviolet solid 2px;
+width: 500px;
+height: 200px;
+background-color: brown;
+
+}
+.child{
+    width: 300px;
+    height: 100px;
+    background-color: chartreuse;
+margin-left: 115%
+    
+}
+body{
+    background-color: aliceblue;
+}

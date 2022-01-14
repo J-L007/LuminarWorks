@@ -1,0 +1,37 @@
+.row{
+    border: solid black 2px;
+    height: 500px;
+    width: 500px;
+    background-color: brown;
+    position: relative; 
+}
+.col{
+    height: 200px;
+    width: 100px;
+}
+.col-1{
+    position: absolute;
+    background-color: bisque;
+}
+.col-2{
+    position: absolute;
+    background-color: green;
+    left: 105px;
+}
+.col-3{
+    position: absolute;
+    background-color: yellow;
+    left: 215px;
+}
+.col-4{
+    position: absolute;
+    background-color: darkblue;
+    left: 325px;
+}
+body{
+    background-image: url(./ab.jpg);
+background-size: cover;
+/* background-repeat: no-repeat; */
+/* background-position: center; */
+
+}

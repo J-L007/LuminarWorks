@@ -1,0 +1,18 @@
+.row{
+    width: 50%;
+    height: 500px;
+    background-color: grey;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+/*right
+left
+spac evenly
+space btween*/
+}
+.col{
+    width: 100px;
+    height: 300px;
+    background-color: pink;
+    border:white 2px solid;
+}

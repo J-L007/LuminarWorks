@@ -1,0 +1,131 @@
+    .navbar {
+        background-color: skyblue;
+    }
+    
+    .navhead {
+        font-family: 'Ubuntu Mono', monospace;
+    }
+    
+    .navhead span {
+        color: white;
+    }
+    
+    container {
+        position: relative;
+        width: 50%;
+        background-color: blue;
+    }
+    
+    .container img {
+        width: 100%;
+        height: auto;
+    }
+    
+    .bgimg {
+        background-image: url(./p4.jpg);
+        background-size: 1300px 800px;
+        background-repeat: no-repeat;
+        height: 500px;
+    }
+    
+    .bgimg h1 {
+        color: bisque;
+        font-family: 'Ubuntu Mono', monospace;
+        margin-left: 20px;
+    }
+    
+    .bgimg button {
+        margin-left: 150px;
+        width: 150px;
+        height: 50px;
+        border-radius: 50px;
+        font-weight: 600;
+        border: black solid 2px;
+        background-color: skyblue;
+        color: white;
+    }
+    
+    .bgimg button:hover {
+        background-color: white;
+        color: skyblue;
+    }
+    
+    i.container .btn {
+        position: absolute;
+        top: 35%;
+        left: 15%;
+        transform: translate(-50%, -50%);
+        -ms-transform: translate(-50%, -50%);
+        background-color: #555;
+        color: white;
+        font-size: 16px;
+        padding: 12px 24px;
+        border: none;
+        cursor: pointer;
+        border-radius: 5px;
+    }
+    
+    .container .btn:hover {
+        background-color: black;
+    }
+    
+    .headwork h1 {
+        text-align: center;
+    }
+    
+    .headwork span {
+        color: aqua;
+    }
+    
+    #html5 {
+        font-family: 'Poppins', sans-serif;
+        font-family: 'Ubuntu Mono', monospace;
+        background-color: rgb(212, 248, 248);
+    }
+    
+    #crds {
+        margin-top: 50px;
+    }
+    
+    #crdhead h2 {
+        text-align: center;
+        font-family: 'Ubuntu Mono', monospace;
+        margin-top: 50px;
+    }
+    
+    .card {
+        /* border-radius: 4px; */
+        background: #fff;
+        box-shadow: 0 6px 10px rgba(0, 0, 0, .08), 0 0 6px rgba(0, 0, 0, .05);
+        transition: .3s transform cubic-bezier(.155, 1.105, .295, 1.12), .3s box-shadow, .3s -webkit-transform cubic-bezier(.155, 1.105, .295, 1.12);
+        padding: 14px 80px 18px 36px;
+        cursor: pointer;
+    }
+    
+    .card:hover {
+        transform: scale(1.05);
+        box-shadow: 0 10px 20px rgba(0, 0, 0, .12), 0 4px 8px rgba(0, 0, 0, .06);
+    }
+    
+    .card img {
+        height: 160px;
+        width: 280px;
+        object-fit: fill;
+    }
+    .footer{
+        background-color: skyblue;
+    }
+.footer h4{
+    text-align: center;
+}
+.footer h6{
+    text-align: right;
+    margin-right: 50px;
+    margin-top: -40px;
+}
+    .footer h5{
+    margin-left: 20px;
+}
+#ficon{
+    margin-left: 20px;
+}

@@ -1,0 +1,30 @@
+.child{
+    height: 750px;
+    width: 20%;
+    float: left;
+    background-color: black;
+    border: 6px rgb(49, 48, 48) solid;
+    padding: 20px;
+    color: red;
+    
+}
+img{
+    padding-left: 10px;
+     padding-top: 15px;
+   
+}
+h2{
+    text-align: center;
+}
+h1{
+    text-align: center;
+}
+
+.parent{
+    display: flex;
+    justify-content: space-around;
+}
+p{
+    text-align: center;
+    color: white;
+}

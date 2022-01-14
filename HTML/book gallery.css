@@ -1,0 +1,23 @@
+.child{
+    height: 750px;
+    width: 195%;
+    float: left;
+    background-color: rgb(241, 238, 238);
+    border: green 2px;
+    padding: 20px;
+    color: red;
+    
+}
+img{
+    width: 250px;
+    margin-right: 10px;
+}
+h1{
+    text-align: center;
+}
+h3{
+    text-align: center;
+}
+.parent{
+    
+}

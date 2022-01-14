@@ -1,0 +1,60 @@
+.mainbg{
+    background-color: white;
+}
+.cfdefnition{
+    margin-left: 40px;
+    font-size: large;
+}
+
+.cfdescription{
+    margin-left: 40px;
+    font-size: large;
+}
+.gallerycf{
+    margin-left: 100px;
+  
+}
+.gallerycf h2{
+    margin-left: 40%;
+}
+.i1{
+    height: 300px;
+    width: 250px;
+    padding: 5px;
+    border: black solid 5px;
+    margin-bottom: 5px;
+}
+.demeritsdesc{
+    margin-left: 40px;
+    font-size: large;
+}
+.regisborder{
+background-image: url(./cofee13.jpg);
+}
+.regis{
+    /* border: black solid 5px; */
+    margin-left: 350px;
+    margin-right: 350px;
+    font-size: medium;
+    text-align: left;
+    display: flex;
+}
+.regis h3{
+    text-align: center;
+}
+/* .sub{
+    margin-left: 170px;
+} */
+.moreaccount{
+    margin-left: 40px;
+    font-size: medium;
+}
+.regisText{
+    padding-bottom: 7px;
+}
+.regisInput{
+    padding-left: 10px;
+}
+.regisTerms{
+    text-align: center;
+}
